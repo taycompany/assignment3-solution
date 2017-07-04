@@ -1,1 +1,26 @@
+#color{
+	background-color: pink;
+}
+
+li{
+	border-bottom: 1px solid black;
+	text-align: center;
+}
+
+#number2{
+	background: yellow;
+	margin-top: 10px
+}
+
+#number3{
+	background: grey;
+	margin-top: 10px
+}
+
+.paragraph {
+	background-color: orange;
+	height: 1000px;
+	margin-bottom: 20px
+	border : 1px solid black;
+}
 
